@@ -1,0 +1,10 @@
+numpy
+torch
+torchvision
+pillow
+scikit-learn
+qiskit
+qiskit-aer
+qiskit-machine-learning
+qiskit-algorithms
+matplotlib
